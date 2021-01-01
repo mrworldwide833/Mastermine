@@ -21,14 +21,14 @@ c = mine_entrance
 --     couldn't access the peripherals mod.
 --     WARNING: not using chunky turtles will
 --     result in narcoleptic turtles!
-use_chunky_turtles = true
+use_chunky_turtles = false
 
 
 -- SPACE IN BLOCKS BETWEEN MINESHAFTS
 --     too close means less chance of finding
 --     ore veins, too far means longer commute
 --     times for turtles.
-grid_width = 8
+grid_width = 2
 
 
 -- MAXIMUM MINING AMOUNT PER TRIP
